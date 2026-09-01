@@ -4,6 +4,8 @@ This is a "basic" Pong demo, it demonstrates flexible player joining capabilitie
 
 ![Picture of the demo](image.png)
 
+Repository can be found [here](https://github.com/maji-git/cm-circular-pong). Clone the repo and give it a try!
+
 ## How to play (two clients)
 
 1. Enable Multiple Run Instances, set to 2 clients
