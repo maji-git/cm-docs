@@ -4,7 +4,7 @@ This is a "basic" Pong demo, it demonstrates flexible player joining capabilitie
 
 ![Picture of the demo](image.png)
 
-Repository can be found [here](https://github.com/maji-git/cm-circular-pong). Clone the repo and give it a try!
+Repository can be found [here](https://github.com/maji-git/cm-circular-pong). Clone the repo and give it a try! (or you can search up CM.gd in the Asset Store Templates to try it from the Godot Editor)
 
 ## How to play (two clients)
 
