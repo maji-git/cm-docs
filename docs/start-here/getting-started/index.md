@@ -5,8 +5,10 @@ Let's get started! This page will guide you through addon installation, enabling
 ## Getting the Addon
 
 1. Go to the Asset Store Tab on the top of the editor
-2. Search *"CM.gd"*
+2. Search "*#CMGD*"
 3. Install the CM.gd Addon
+
+![CM.gd on the Editor's Asset store](image-6.png)
 
 Additionally, the link to the Godot Asset Store is [here](https://store.godotengine.org/asset/mawji/cm-gd/).
 
@@ -37,7 +39,7 @@ Additionally, the link to the Godot Asset Store is [here](https://store.godoteng
 ## Configuring Transport
 
 1. Select the node `Net` in CMSession
-2. In the inspector dock. Choose the transport you'd like to use.
+2. In the inspector dock. Choose the transport you'd like to use. (In this case, I'd recommend going with ENet first)
 ![Transports](image-5.png)
 
 ::: info
